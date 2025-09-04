@@ -4,3 +4,5 @@ Carles
 Paola
 Andrea
 David
+Patricia
+Pedro
